@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>TigerPower</title>
+        <style>
+            body {
+                background-color:red;
+            }
+            h1 {
+                color:blue;
+            }
+            h2 {
+                color:blue;
+            }
+            p {
+                color:orange;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>TigerPower</h1>
+        <h2>About our product</h2>
+        <p>Our product was made to give you the energy and strength of a tiger.<br>It comes in 4 different flavors: Berry Blast, Fruit Bomb, Blue Raspberry, and finally Mango.</p>
+        <h2>Available at Walmart and Costco<br>Or call 1-800-TIGERPOWER</h2>
+        
+    </body>
+</html>
